@@ -1,0 +1,13 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>Sujana Poudel</h1>
+    <p>Computer Science student. Learning Git and GitHub.</p>
+    <p>Loves coding and web development.</p>
+    <p>Contact: sujana@example.com</p>
+</body>
+</html>
+new paragraph
